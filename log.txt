@@ -1,3 +1,4 @@
 0027. 📚 docs: clarify environment setup
 0614. 🚀 perf: reduce image load time
 0327. 🔧 refactor: split large controller into smaller functions
+0914. ✅ test: test user registration edge cases
