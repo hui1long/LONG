@@ -6,3 +6,4 @@
 0516. ✅ test: add unit test for quiz service
 0916. ♻️ chore: bump dependencies
 0991. ♻️ chore: clean up unused files
+0549. ✨ feat: enable dark mode toggle
