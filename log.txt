@@ -7,3 +7,4 @@
 0916. ♻️ chore: bump dependencies
 0991. ♻️ chore: clean up unused files
 0549. ✨ feat: enable dark mode toggle
+0422. 🔧 refactor: organize models into subfolders
