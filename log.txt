@@ -17,3 +17,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0980. 🎨 style: reformat files with black
 0591. ♻️ chore: clean up unused files
+0424. ✨ feat: add user authentication
