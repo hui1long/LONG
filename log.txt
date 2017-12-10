@@ -20,3 +20,4 @@
 0424. ✨ feat: add user authentication
 0650. ✅ test: add unit test for quiz service
 0620. ✨ feat: implement quiz timer feature
+0820. 📚 docs: add API usage examples
