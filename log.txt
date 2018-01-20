@@ -32,3 +32,4 @@
 0046. 🎨 style: rename variables for clarity
 0769. ✨ feat: create admin dashboard
 0944. ✨ feat: add user authentication
+0912. 📚 docs: document token refresh logic
