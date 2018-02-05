@@ -37,3 +37,4 @@
 0007. 🎨 style: rename variables for clarity
 0095. ✅ test: mock database connection in test suite
 0621. 🔧 refactor: clean up auth middleware
+0745. ✅ test: add unit test for quiz service
