@@ -47,3 +47,4 @@
 0669. ✨ feat: enable dark mode toggle
 0509. ♻️ chore: bump dependencies
 0140. 🐛 fix: handle 500 error in quiz API
+0495. 🔧 refactor: remove redundant code blocks
