@@ -50,3 +50,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0330. ✅ test: test user registration edge cases
 0955. 🔧 refactor: remove redundant code blocks
+0296. 🔧 refactor: organize models into subfolders
