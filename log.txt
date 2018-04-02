@@ -51,3 +51,4 @@
 0330. ✅ test: test user registration edge cases
 0955. 🔧 refactor: remove redundant code blocks
 0296. 🔧 refactor: organize models into subfolders
+0371. ✅ test: add integration test for /submit endpoint
