@@ -53,3 +53,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0371. ✅ test: add integration test for /submit endpoint
 0220. 🐛 fix: fix null pointer exception on login
+0513. ♻️ chore: bump dependencies
