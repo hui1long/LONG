@@ -58,3 +58,4 @@
 0889. 🚀 perf: lazy-load components
 0836. 🚀 perf: optimize database query for quiz results
 0930. 🎨 style: apply consistent indentation
+0466. 🚀 perf: optimize database query for quiz results
