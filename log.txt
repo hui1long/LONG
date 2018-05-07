@@ -62,3 +62,4 @@
 0583. ✅ test: increase coverage on auth module
 0994. 🚀 perf: reduce image load time
 0060. ♻️ chore: clean up unused files
+0933. 📚 docs: clarify environment setup
