@@ -65,3 +65,4 @@
 0933. 📚 docs: clarify environment setup
 0895. ✨ feat: support email verification
 0179. 🔧 refactor: split large controller into smaller functions
+0881. 🔧 refactor: split large controller into smaller functions
