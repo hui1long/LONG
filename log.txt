@@ -66,3 +66,4 @@
 0895. ✨ feat: support email verification
 0179. 🔧 refactor: split large controller into smaller functions
 0881. 🔧 refactor: split large controller into smaller functions
+0578. ✅ test: add integration test for /submit endpoint
