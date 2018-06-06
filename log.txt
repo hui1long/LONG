@@ -81,3 +81,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0313. 🎨 style: apply consistent indentation
 0181. ♻️ chore: add GitHub actions badge
+0362. 📚 docs: add API usage examples
