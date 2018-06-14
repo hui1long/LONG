@@ -86,3 +86,4 @@
 0174. 📚 docs: clarify environment setup
 0530. 🔧 refactor: refactor quiz grading logic
 0367. 🐛 fix: fix null pointer exception on login
+0167. 🚀 perf: reduce image load time
