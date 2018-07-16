@@ -97,3 +97,4 @@
 0395. 📚 docs: write FAQ section
 0576. ♻️ chore: update .gitignore
 0884. 📚 docs: clarify environment setup
+0201. 🔧 refactor: clean up auth middleware
