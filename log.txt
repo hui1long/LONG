@@ -109,3 +109,4 @@
 0471. ✨ feat: support email verification
 0324. 📚 docs: document token refresh logic
 0460. 📚 docs: write FAQ section
+0359. 🔧 refactor: clean up auth middleware
