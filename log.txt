@@ -115,3 +115,4 @@
 0078. ♻️ chore: update .gitignore
 0950. 🎨 style: reformat files with black
 0764. ✨ feat: add user authentication
+0969. ✨ feat: create admin dashboard
