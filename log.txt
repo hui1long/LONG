@@ -121,3 +121,4 @@
 0221. ✨ feat: add user authentication
 0490. ✨ feat: create admin dashboard
 0450. 🐛 fix: fix broken CSS in mobile view
+0245. 🐛 fix: resolve issue with date parsing
