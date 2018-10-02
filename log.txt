@@ -127,3 +127,4 @@
 0307. ✨ feat: support email verification
 0847. ♻️ chore: clean up unused files
 0039. ✅ test: add integration test for /submit endpoint
+0733. 🐛 fix: fix null pointer exception on login
