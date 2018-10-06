@@ -129,3 +129,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0733. 🐛 fix: fix null pointer exception on login
 0546. 🐛 fix: fix null pointer exception on login
+0249. ✅ test: increase coverage on auth module
