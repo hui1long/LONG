@@ -137,3 +137,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0663. 🚀 perf: reduce image load time
 0190. 🎨 style: rename variables for clarity
+0743. 🎨 style: apply consistent indentation
