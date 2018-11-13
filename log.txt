@@ -141,3 +141,4 @@
 0636. ✅ test: increase coverage on auth module
 0401. 🚀 perf: reduce image load time
 0338. ♻️ chore: add GitHub actions badge
+0073. 🔧 refactor: split large controller into smaller functions
