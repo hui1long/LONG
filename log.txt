@@ -149,3 +149,4 @@
 0136. 🚀 perf: lazy-load components
 0417. 🎨 style: rename variables for clarity
 0392. 🎨 style: remove trailing whitespace
+0780. 📚 docs: add API usage examples
