@@ -161,3 +161,4 @@
 0410. 🎨 style: reformat files with black
 0822. 🔧 refactor: remove redundant code blocks
 0832. 🔧 refactor: remove redundant code blocks
+0218. 🔧 refactor: clean up auth middleware
