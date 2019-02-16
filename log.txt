@@ -165,3 +165,4 @@
 0935. 📚 docs: update README with setup steps
 0209. ✨ feat: implement quiz timer feature
 0996. ✅ test: test user registration edge cases
+0799. ♻️ chore: clean up unused files
