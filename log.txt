@@ -167,3 +167,4 @@
 0996. ✅ test: test user registration edge cases
 0799. ♻️ chore: clean up unused files
 0411. ✅ test: add unit test for quiz service
+0656. 🎨 style: apply consistent indentation
