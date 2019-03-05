@@ -171,3 +171,4 @@
 0404. 📚 docs: improve code comments in utils
 0474. ✅ test: add unit test for quiz service
 0299. 🐛 fix: resolve issue with date parsing
+0774. 🔧 refactor: refactor quiz grading logic
