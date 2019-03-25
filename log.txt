@@ -178,3 +178,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0964. ♻️ chore: clean up unused files
 0875. ✅ test: increase coverage on auth module
+0293. ✅ test: add integration test for /submit endpoint
