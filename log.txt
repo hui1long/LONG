@@ -180,3 +180,4 @@
 0875. ✅ test: increase coverage on auth module
 0293. ✅ test: add integration test for /submit endpoint
 0373. 📚 docs: document token refresh logic
+0268. 🐛 fix: prevent crash on empty input
