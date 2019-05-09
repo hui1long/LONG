@@ -186,3 +186,4 @@
 0352. ✨ feat: add export to CSV option
 0246. ✅ test: add integration test for /submit endpoint
 0862. ♻️ chore: bump dependencies
+0829. 🔧 refactor: organize models into subfolders
