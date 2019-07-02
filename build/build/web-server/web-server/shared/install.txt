@@ -1,0 +1,1 @@
+sudo cp -R /home/ubuntu/shared/* /usr/lib/x86_64-linux-gnu

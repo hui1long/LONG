@@ -1,0 +1,6 @@
+libgiognutls.so: gio-tls-backend
+libdconfsettings.so: gsettings-backend
+libgvfsdbus.so: gio-vfs,gio-volume-monitor
+libgiolibproxy.so: gio-proxy-resolver
+libgioremote-volume-monitor.so: gio-native-volume-monitor,gio-volume-monitor
+libgiognomeproxy.so: gio-proxy-resolver

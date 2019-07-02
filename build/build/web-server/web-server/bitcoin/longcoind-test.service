@@ -1,0 +1,25 @@
+#longcoind-test.service
+#sudo cp /home/ubuntu/bitcoin/longcoind-test.service /etc/systemd/system/longcoind-test.service
+#sudo systemctl enable longcoind-test.service
+#sudo systemctl start longcoind-test.service
+#sudo systemctl stop longcoind-test.service
+#sudo systemctl status longcoind-test.service
+#sudo systemctl daemon-reload
+
+[Unit]
+Description=longcoind-test.service
+After=syslog.target
+After=network.target
+
+[Service]
+Type=simple
+PIDFile=/home/ubuntu/bitcoin-data0/bitcoind.pid
+WorkingDirectory=/home/ubuntu/bitcoin
+
+ExecStart=/home/ubuntu/bitcoin/bitcoind -datadir=/home/ubuntu/bitcoin-data0 
+ExecReload=/bin/kill -s HUP/home/ubuntu/bitcoin-data0/bitcoind.pid
+ExecStop=/bin/kill -s QUIT /home/ubuntu/bitcoin-data0/bitcoind.pid
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

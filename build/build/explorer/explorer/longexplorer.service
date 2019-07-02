@@ -1,0 +1,26 @@
+#longexplorer.service
+#sudo cp /home/ubuntu/explorer/longexplorer.service /etc/systemd/system/longexplorer.service
+#sudo systemctl enable longexplorer.service
+#sudo systemctl start longexplorer.service
+#sudo systemctl stop longexplorer.service
+#sudo systemctl status longexplorer.service
+#sudo systemctl daemon-reload
+
+[Unit]
+Description=longexplorer.service
+After=syslog.target
+After=network.target
+
+[Service]
+Type=simple
+Environment=NODE_ENV=production
+PIDFile=/home/ubuntu/explorer/explorer.pid
+WorkingDirectory=/home/ubuntu/explorer
+
+ExecStart=/usr/lib/node_modules/bitcore/bin/bitcored
+ExecReload=/bin/kill -s HUP/home/ubuntu/explorer/explorer.pid
+ExecStop=/bin/kill -s QUIT /home/ubuntu/explorer/explorer.pid
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

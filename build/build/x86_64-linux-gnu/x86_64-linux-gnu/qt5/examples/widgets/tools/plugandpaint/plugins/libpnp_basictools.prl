@@ -1,0 +1,6 @@
+QMAKE_PRL_BUILD_DIR = /build/buildd/qtbase-opensource-src-5.2.1+dfsg/examples/widgets/tools/plugandpaintplugins/basictools
+QMAKE_PRO_INPUT = basictools.pro
+QMAKE_PRL_TARGET = libpnp_basictools.a
+QMAKE_PRL_CONFIG = lex yacc depend_includepath testcase_targets import_plugins import_qpa_plugin qt warn_on release link_prl incremental gdb_dwarf_index qpa no_mocdepend release qt_no_framework linux unix posix gcc compile_examples system-sqlite qpa largefile nostrip precompile_header sse2 sse3 ssse3 sse4_1 sse4_2 avx avx2 pcre use_libmysqlclient_r prefix_build force_independent create_prl link_prl prepare_docs qt_docs_targets no_private_qt_headers_warning QTDIR_build no_dll exceptions_off testcase_exceptions qt_example_installs warning_clean plugin static have_target staticlib thread uic needs_qpa_plugin opengl moc resources dll
+QMAKE_PRL_VERSION = 1.0.0
+QMAKE_PRL_LIBS = -L/usr/X11R6/lib64 -L/build/buildd/qtbase-opensource-src-5.2.1+dfsg/lib -lQt5Widgets -lQt5Gui -lQt5Core -lGL -lpthread  

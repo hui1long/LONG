@@ -1,0 +1,14 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${prefix}/lib/x86_64-linux-gnu
+includedir=${prefix}/include/qt5
+
+
+Name: Qt5 Sensors
+Description: Qt Sensors module
+Version: 5.2.1
+Libs: -L${libdir} -lQt5Sensors 
+Libs.private: -lQt5Core -lpthread   
+Cflags: -I${includedir}/QtSensors -I${includedir}
+Requires: Qt5Core
+

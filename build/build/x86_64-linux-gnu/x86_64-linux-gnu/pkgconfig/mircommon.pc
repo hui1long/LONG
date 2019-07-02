@@ -1,0 +1,10 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=/usr/lib/x86_64-linux-gnu
+includedir=/usr/include/mircommon
+
+Name: mircommon
+Description: Mir common headers
+Version: 0.1.8
+Libs:
+Cflags: -I/usr/include/mircommon

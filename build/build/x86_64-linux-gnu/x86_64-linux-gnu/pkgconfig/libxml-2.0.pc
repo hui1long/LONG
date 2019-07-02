@@ -1,0 +1,13 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${prefix}/lib/x86_64-linux-gnu
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.9.1
+Description: libXML library version2.
+Requires:
+Libs: -L${libdir} -lxml2
+Libs.private:   -lz  -lm   -llzma
+Cflags: -I${includedir}/libxml2 

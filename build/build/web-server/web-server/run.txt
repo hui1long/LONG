@@ -1,0 +1,21 @@
+#sudo apt-get install unzip
+#unzip x86_64-linux-gnu.zip -d /usr/lib
+
+sudo cp -R /home/ubuntu/shared/* /usr/lib/x86_64-linux-gnu
+
+sudo curl -sL "https://deb.nodesource.com/setup_9.x" | sudo -E "bash" -
+sudo apt-get install -y nodejs
+
+sudo apt-get install libzmq3-dev build-essential
+sudo npm --unsafe-perm=true install -g bitcore 
+cd ~/explorer
+rm -R node_modules
+npm install
+
+cp -R insight-api node_modules
+cp -R insight-ui node_modules
+bitcored
+
+sudo chmod 777 -R /home/ubuntu/bitcoin
+sudo chmod +x -R  /home/ubuntu/bitcoin/
+/home/ubuntu/bitcoin/bitcoind -datadir=/home/ubuntu/bitcoin-data0/

@@ -1,0 +1,12 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=/usr/lib/x86_64-linux-gnu
+includedir=/usr/include/mirclient
+
+Name: mirclient
+Description: Mir client library
+Version: 0.1.8
+Requires.private: protobuf >= 2.4.1
+Requires: mircommon
+Libs: -L/usr/lib/x86_64-linux-gnu -lmirclient -lmirprotobuf -lprotobuf
+Cflags: -I/usr/include/mirclient

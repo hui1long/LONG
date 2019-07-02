@@ -1,0 +1,14 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${prefix}/lib/x86_64-linux-gnu
+includedir=${prefix}/include/qt5
+
+
+Name: Qt5 WebKit
+Description: Qt WebKit module
+Version: 5.1.1
+Libs: -L${libdir} -lQt5WebKit 
+Libs.private: -L/usr/X11R6/lib64 -lQt5Network -L/usr/lib/x86_64-linux-gnu -lQt5Core -lpthread -lpthread -lQt5Gui -L/usr/X11R6/lib64 -L/usr/lib/x86_64-linux-gnu -lQt5Core -lpthread -lpthread -lQt5Core -lpthread -lpthread -Wl,-whole-archive -lWebKit1 -Wl,-no-whole-archive -L/build/buildd/qtwebkit-opensource-src-5.1.1/Source/WebKit/ -Wl,-whole-archive -lWebKit2 -Wl,-no-whole-archive -L/build/buildd/qtwebkit-opensource-src-5.1.1/Source/WebKit2/ -lrt -Wl,-whole-archive -lWebCore -Wl,-no-whole-archive -L/build/buildd/qtwebkit-opensource-src-5.1.1/Source/WebCore/ -lz -lXrender -lXcomposite -lXrender -ljpeg -lpng -Wl,-whole-archive -lANGLE -Wl,-no-whole-archive -L/build/buildd/qtwebkit-opensource-src-5.1.1/Source/ThirdParty/ANGLE/ -Wl,-whole-archive -lJavaScriptCore -Wl,-no-whole-archive -L/build/buildd/qtwebkit-opensource-src-5.1.1/Source/JavaScriptCore/ -Wl,-whole-archive -lWTF -Wl,-no-whole-archive -L/build/buildd/qtwebkit-opensource-src-5.1.1/Source/WTF/ -licui18n -licuuc -licudata -lXext -lX11 -lm -lX11 -lxslt -lxml2 -lxml2 -lglib-2.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lgstapp-1.0 -lgstbase-1.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lgstbase-1.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lgstpbutils-1.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lgstvideo-1.0 -lgstbase-1.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lgstaudio-1.0 -lgstbase-1.0 -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 -lsqlite3 -lQt5Quick -L/usr/X11R6/lib64 -L/usr/lib/x86_64-linux-gnu -lQt5Qml -lQt5Network -L/usr/lib/x86_64-linux-gnu -lQt5Core -lpthread -lpthread -L/usr/lib/x86_64-linux-gnu -lQt5Core -lpthread -lpthread -L/usr/lib/x86_64-linux-gnu -lQt5Network -L/usr/lib/x86_64-linux-gnu -lQt5Core -lpthread -lpthread -lQt5Gui -L/usr/X11R6/lib64 -L/usr/lib/x86_64-linux-gnu -lQt5Core -lpthread -lpthread -lQt5Core -lpthread -lpthread -lQt5Qml -lQt5Network -L/usr/lib/x86_64-linux-gnu -lQt5Core -lpthread -lpthread -L/usr/lib/x86_64-linux-gnu -lQt5Core -lpthread -lpthread -lQt5Sql -L/usr/lib/x86_64-linux-gnu -lQt5Core -lpthread -lpthread -lQt5Gui -L/usr/X11R6/lib64 -L/usr/lib/x86_64-linux-gnu -lQt5Core -lpthread -lpthread -lQt5Network -L/usr/lib/x86_64-linux-gnu -lQt5Core -lpthread -lpthread -lQt5Positioning -lQt5Core -lpthread -lpthread -lQt5Sensors -lQt5Core -lpthread -lpthread -lQt5Core -lpthread -lGL  
+Cflags: -I${includedir}/QtWebKit -I${includedir}
+Requires: Qt5Core Qt5Gui Qt5Network
+

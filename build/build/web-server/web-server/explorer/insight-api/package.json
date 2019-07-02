@@ -1,0 +1,109 @@
+{
+  "_from": "insight-api",
+  "_id": "insight-api@0.4.3",
+  "_inBundle": false,
+  "_integrity": "sha1-SOsM2FfElrBoK56r0/epxfKTSkA=",
+  "_location": "/insight-api",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "insight-api",
+    "name": "insight-api",
+    "escapedName": "insight-api",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/insight-api/-/insight-api-0.4.3.tgz",
+  "_shasum": "48eb0cd857c496b0682b9eabd3f7a9c5f2934a40",
+  "_spec": "insight-api",
+  "_where": "/home/ubuntu/explorer",
+  "bitcoreNode": "lib",
+  "bugs": {
+    "url": "https://github.com/bitpay/insight-api/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Gustavo Cortez",
+      "email": "cmgustavo83@gmail.com"
+    },
+    {
+      "name": "Ivan Socolsky",
+      "email": "jungans@gmail.com"
+    },
+    {
+      "name": "Juan Ignacio Sosa Lopez",
+      "email": "bechilandia@gmail.com"
+    },
+    {
+      "name": "Manuel Araoz",
+      "email": "manuelaraoz@gmail.com"
+    },
+    {
+      "name": "Matias Alejo Garcia",
+      "email": "ematiu@gmail.com"
+    },
+    {
+      "name": "Mario Colque",
+      "email": "colquemario@gmail.com"
+    },
+    {
+      "name": "Patrick Nagurny",
+      "email": "patrick@bitpay.com"
+    },
+    {
+      "name": "Braydon Fuller",
+      "email": "braydon@bitpay.com"
+    }
+  ],
+  "dependencies": {
+    "async": "*",
+    "bitcore-lib": "^0.13.7",
+    "bitcore-message": "^1.0.1",
+    "body-parser": "^1.13.3",
+    "compression": "^1.6.1",
+    "lodash": "^2.4.1",
+    "lru-cache": "^4.0.1",
+    "morgan": "^1.7.0",
+    "request": "^2.64.0"
+  },
+  "deprecated": false,
+  "description": "A Bitcoin blockchain REST and web socket API service for Bitcore Node.",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "proxyquire": "^1.7.2",
+    "should": "^8.3.1",
+    "sinon": "^1.10.3"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "homepage": "https://github.com/bitpay/insight-api",
+  "keywords": [
+    "insight",
+    "insight api",
+    "blockchain",
+    "bitcoin api",
+    "blockchain api",
+    "json",
+    "bitcore"
+  ],
+  "license": "MIT",
+  "main": "lib",
+  "name": "insight-api",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bitpay/insight-api.git"
+  },
+  "scripts": {
+    "test": "NODE_ENV=test mocha -R spec --recursive"
+  },
+  "version": "0.4.3"
+}

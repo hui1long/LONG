@@ -1,0 +1,25 @@
+#longcoind.service
+#sudo cp /home/ubuntu/bitcoin/longcoind.service /etc/systemd/system/longcoind.service
+#sudo systemctl enable longcoind.service
+#sudo systemctl start longcoind.service
+#sudo systemctl stop longcoind.service
+#sudo systemctl status longcoind.service
+#sudo systemctl daemon-reload
+
+[Unit]
+Description=longcoind.service
+After=syslog.target
+After=network.target
+
+[Service]
+Type=simple
+PIDFile=/home/ubuntu/bitcoin-data0/longcoind.pid
+WorkingDirectory=/home/ubuntu/bitcoin
+
+ExecStart=/usr/lib/node_modules/bitcore/bin/bitcored
+ExecReload=/bin/kill -s HUP/home/ubuntu/bitcoin-data0/longcoind.pid
+ExecStop=/bin/kill -s QUIT /home/ubuntu/bitcoin-data0/longcoind.pid
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

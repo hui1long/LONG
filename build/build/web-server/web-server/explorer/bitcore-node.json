@@ -1,0 +1,21 @@
+{
+  "network": "livenet",
+  "port": 80,
+  "services": [
+    "bitcoind",
+    "insight-api",
+    "insight-ui",
+    "web"
+  ],
+  "servicesConfig": {
+    "insight-ui": {
+      "routePrefix": "explorer"
+	},
+    "bitcoind": {
+      "spawn": {
+        "datadir": "./data",
+        "exec": "../bitcoin/bitcoind"
+      }
+    }
+  }
+}
