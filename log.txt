@@ -202,3 +202,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0786. ✨ feat: enable dark mode toggle
 0306. 🎨 style: apply consistent indentation
+0008. 🚀 perf: reduce image load time
