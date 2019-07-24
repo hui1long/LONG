@@ -206,3 +206,4 @@
 0683. ✅ test: mock database connection in test suite
 0905. ♻️ chore: bump dependencies
 0987. ✨ feat: create admin dashboard
+0023. 📚 docs: clarify environment setup
