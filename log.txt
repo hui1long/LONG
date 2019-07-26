@@ -208,3 +208,4 @@
 0987. ✨ feat: create admin dashboard
 0023. 📚 docs: clarify environment setup
 0488. ♻️ chore: add GitHub actions badge
+0926. 🔧 refactor: organize models into subfolders
