@@ -212,3 +212,4 @@
 0262. 🎨 style: remove trailing whitespace
 0732. ♻️ chore: add GitHub actions badge
 0767. 🔧 refactor: remove redundant code blocks
+0931. 🚀 perf: reduce image load time
