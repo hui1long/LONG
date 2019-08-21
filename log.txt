@@ -215,3 +215,4 @@
 0931. 🚀 perf: reduce image load time
 0258. 🐛 fix: prevent crash on empty input
 0341. 🚀 perf: lazy-load components
+0322. 🔧 refactor: split large controller into smaller functions
