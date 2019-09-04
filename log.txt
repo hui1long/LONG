@@ -222,3 +222,4 @@
 0942. ✅ test: increase coverage on auth module
 0528. ♻️ chore: clean up unused files
 0169. 📚 docs: add API usage examples
+0348. ✅ test: test user registration edge cases
