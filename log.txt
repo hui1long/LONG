@@ -227,3 +227,4 @@
 0843. 📚 docs: document token refresh logic
 0700. 🎨 style: rename variables for clarity
 0116. ✨ feat: support email verification
+0725. 🚀 perf: lazy-load components
