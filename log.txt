@@ -234,3 +234,4 @@
 0387. ✨ feat: enable dark mode toggle
 0602. 🔧 refactor: remove redundant code blocks
 0588. 🔧 refactor: organize models into subfolders
+0666. 🐛 fix: fix broken CSS in mobile view
