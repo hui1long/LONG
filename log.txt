@@ -238,3 +238,4 @@
 0032. 🎨 style: apply consistent indentation
 0385. ♻️ chore: clean up unused files
 0717. 🔧 refactor: refactor quiz grading logic
+0967. ♻️ chore: add GitHub actions badge
