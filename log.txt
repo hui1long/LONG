@@ -240,3 +240,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0967. ♻️ chore: add GitHub actions badge
 0202. 🔧 refactor: refactor quiz grading logic
+0420. 🚀 perf: reduce image load time
