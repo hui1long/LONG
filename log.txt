@@ -244,3 +244,4 @@
 0217. 🚀 perf: reduce image load time
 0279. ✨ feat: support email verification
 0457. 🐛 fix: handle 500 error in quiz API
+0608. 🔧 refactor: remove redundant code blocks
