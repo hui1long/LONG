@@ -245,3 +245,4 @@
 0279. ✨ feat: support email verification
 0457. 🐛 fix: handle 500 error in quiz API
 0608. 🔧 refactor: remove redundant code blocks
+0637. 🎨 style: apply consistent indentation
