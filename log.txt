@@ -246,3 +246,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0608. 🔧 refactor: remove redundant code blocks
 0637. 🎨 style: apply consistent indentation
+0273. 🚀 perf: reduce image load time
