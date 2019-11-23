@@ -249,3 +249,4 @@
 0273. 🚀 perf: reduce image load time
 0986. 📚 docs: document token refresh logic
 0675. 🔧 refactor: organize models into subfolders
+0522. 🐛 fix: handle 500 error in quiz API
