@@ -248,3 +248,4 @@
 0637. 🎨 style: apply consistent indentation
 0273. 🚀 perf: reduce image load time
 0986. 📚 docs: document token refresh logic
+0675. 🔧 refactor: organize models into subfolders
