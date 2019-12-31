@@ -256,3 +256,4 @@
 0523. ♻️ chore: bump dependencies
 0568. 🐛 fix: handle 500 error in quiz API
 0458. ✨ feat: create admin dashboard
+0303. 🎨 style: rename variables for clarity
