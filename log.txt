@@ -260,3 +260,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0085. ✨ feat: support email verification
 0462. ♻️ chore: update .gitignore
+0928. 🎨 style: apply consistent indentation
