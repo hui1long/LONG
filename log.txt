@@ -261,3 +261,4 @@
 0085. ✨ feat: support email verification
 0462. ♻️ chore: update .gitignore
 0928. 🎨 style: apply consistent indentation
+0206. 🐛 fix: handle 500 error in quiz API
