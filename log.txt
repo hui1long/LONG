@@ -265,3 +265,4 @@
 0031. 📚 docs: document token refresh logic
 0243. 🔧 refactor: clean up auth middleware
 0212. 🎨 style: standardize quote style
+0344. ♻️ chore: add GitHub actions badge
