@@ -274,3 +274,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0824. 🚀 perf: lazy-load components
 0633. ✨ feat: add user authentication
+0400. 🐛 fix: fix null pointer exception on login
