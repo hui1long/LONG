@@ -276,3 +276,4 @@
 0633. ✨ feat: add user authentication
 0400. 🐛 fix: fix null pointer exception on login
 0595. ✨ feat: enable dark mode toggle
+0699. 🎨 style: standardize quote style
