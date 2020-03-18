@@ -279,3 +279,4 @@
 0699. 🎨 style: standardize quote style
 0113. ✨ feat: add user authentication
 0754. 🐛 fix: handle 500 error in quiz API
+0630. 🚀 perf: lazy-load components
