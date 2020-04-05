@@ -287,3 +287,4 @@
 0284. ✨ feat: implement quiz timer feature
 0428. 🐛 fix: fix null pointer exception on login
 0807. 🔧 refactor: remove redundant code blocks
+0292. 📚 docs: clarify environment setup
