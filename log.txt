@@ -293,3 +293,4 @@
 0094. 📚 docs: document token refresh logic
 0561. 📚 docs: write FAQ section
 0653. 🐛 fix: prevent crash on empty input
+0632. 🎨 style: remove trailing whitespace
