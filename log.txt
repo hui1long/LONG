@@ -302,3 +302,4 @@
 0899. 🚀 perf: cache repeated calculations
 0463. 🚀 perf: reduce image load time
 0125. ✅ test: add integration test for /submit endpoint
+0890. 🔧 refactor: organize models into subfolders
