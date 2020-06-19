@@ -316,3 +316,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0101. 📚 docs: clarify environment setup
 0537. 🔧 refactor: remove redundant code blocks
+0442. 🎨 style: standardize quote style
