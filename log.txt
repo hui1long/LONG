@@ -321,3 +321,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0615. 🐛 fix: correct typo in registration form
 0102. ✨ feat: support email verification
+0435. ✅ test: add unit test for quiz service
