@@ -328,3 +328,4 @@
 0819. 🚀 perf: reduce image load time
 0144. ✅ test: increase coverage on auth module
 0548. 📚 docs: write FAQ section
+0974. ✨ feat: add export to CSV option
