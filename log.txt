@@ -330,3 +330,4 @@
 0548. 📚 docs: write FAQ section
 0974. ✨ feat: add export to CSV option
 0214. 📚 docs: improve code comments in utils
+0114. ♻️ chore: update .gitignore
