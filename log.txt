@@ -333,3 +333,4 @@
 0114. ♻️ chore: update .gitignore
 0147. ♻️ chore: bump dependencies
 0261. 🔧 refactor: refactor quiz grading logic
+0873. 🚀 perf: cache repeated calculations
