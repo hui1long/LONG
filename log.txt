@@ -336,3 +336,4 @@
 0873. 🚀 perf: cache repeated calculations
 0393. 🚀 perf: lazy-load components
 0446. 🎨 style: apply consistent indentation
+0018. 🔧 refactor: organize models into subfolders
