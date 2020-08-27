@@ -339,3 +339,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0098. 🎨 style: rename variables for clarity
 0481. ✅ test: add unit test for quiz service
+0521. 🎨 style: standardize quote style
