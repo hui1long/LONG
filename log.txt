@@ -343,3 +343,4 @@
 0949. 📚 docs: write FAQ section
 0635. 🎨 style: apply consistent indentation
 0603. 🐛 fix: fix broken CSS in mobile view
+0453. 🎨 style: standardize quote style
