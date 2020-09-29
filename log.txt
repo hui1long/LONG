@@ -352,3 +352,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0369. 🎨 style: standardize quote style
 0831. 📚 docs: clarify environment setup
+0760. 🐛 fix: resolve issue with date parsing
