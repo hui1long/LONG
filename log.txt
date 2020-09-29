@@ -351,3 +351,4 @@
 0347. ♻️ chore: update .gitignore
 0063. 🐛 fix: handle 500 error in quiz API
 0369. 🎨 style: standardize quote style
+0831. 📚 docs: clarify environment setup
