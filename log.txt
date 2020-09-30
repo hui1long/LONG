@@ -353,3 +353,4 @@
 0369. 🎨 style: standardize quote style
 0831. 📚 docs: clarify environment setup
 0760. 🐛 fix: resolve issue with date parsing
+0320. 📚 docs: update README with setup steps
