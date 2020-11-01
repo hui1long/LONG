@@ -361,3 +361,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0270. ♻️ chore: rename env.example
 0726. ✨ feat: enable dark mode toggle
+0189. 📚 docs: clarify environment setup
