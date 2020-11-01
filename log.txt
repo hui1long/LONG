@@ -360,3 +360,4 @@
 0906. 📚 docs: add API usage examples
 0294. 🐛 fix: prevent crash on empty input
 0270. ♻️ chore: rename env.example
+0726. ✨ feat: enable dark mode toggle
