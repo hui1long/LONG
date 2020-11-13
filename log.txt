@@ -365,3 +365,4 @@
 0667. ✨ feat: add export to CSV option
 0480. ♻️ chore: add GitHub actions badge
 0187. ✨ feat: support email verification
+0674. 🔧 refactor: split large controller into smaller functions
