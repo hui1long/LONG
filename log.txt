@@ -367,3 +367,4 @@
 0187. ✨ feat: support email verification
 0674. 🔧 refactor: split large controller into smaller functions
 0711. 🐛 fix: fix broken CSS in mobile view
+0301. 🎨 style: apply consistent indentation
