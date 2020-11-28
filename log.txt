@@ -369,3 +369,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0301. 🎨 style: apply consistent indentation
 0109. 🚀 perf: lazy-load components
+0064. 📚 docs: clarify environment setup
