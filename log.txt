@@ -374,3 +374,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0893. 🐛 fix: handle 500 error in quiz API
 0186. ✅ test: test user registration edge cases
+0839. 🎨 style: apply consistent indentation
