@@ -376,3 +376,4 @@
 0186. ✅ test: test user registration edge cases
 0839. 🎨 style: apply consistent indentation
 0132. ✅ test: add unit test for quiz service
+0712. 🎨 style: apply consistent indentation
