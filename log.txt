@@ -378,3 +378,4 @@
 0132. ✅ test: add unit test for quiz service
 0712. 🎨 style: apply consistent indentation
 0641. 📚 docs: write FAQ section
+0855. 🎨 style: reformat files with black
