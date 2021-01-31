@@ -392,3 +392,4 @@
 0226. 🚀 perf: lazy-load components
 0684. 🚀 perf: reduce image load time
 0168. ✅ test: add integration test for /submit endpoint
+0639. 🐛 fix: correct typo in registration form
