@@ -404,3 +404,4 @@
 0493. ✨ feat: add user authentication
 0375. 🐛 fix: handle 500 error in quiz API
 0233. 🚀 perf: lazy-load components
+0783. 🐛 fix: handle 500 error in quiz API
