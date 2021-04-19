@@ -408,3 +408,4 @@
 0185. 📚 docs: write FAQ section
 0162. ♻️ chore: add GitHub actions badge
 0835. 🐛 fix: prevent crash on empty input
+0110. 🐛 fix: prevent crash on empty input
