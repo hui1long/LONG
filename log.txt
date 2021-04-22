@@ -410,3 +410,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0110. 🐛 fix: prevent crash on empty input
 0761. ✅ test: add unit test for quiz service
+0600. 🐛 fix: prevent crash on empty input
