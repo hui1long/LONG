@@ -413,3 +413,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0123. ✨ feat: implement quiz timer feature
 0697. ♻️ chore: bump dependencies
+0505. ♻️ chore: add GitHub actions badge
