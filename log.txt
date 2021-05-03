@@ -414,3 +414,4 @@
 0123. ✨ feat: implement quiz timer feature
 0697. ♻️ chore: bump dependencies
 0505. ♻️ chore: add GitHub actions badge
+0384. 📚 docs: clarify environment setup
