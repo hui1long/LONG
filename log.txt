@@ -418,3 +418,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0876. ♻️ chore: rename env.example
 0741. 🎨 style: apply consistent indentation
+0394. 🚀 perf: lazy-load components
