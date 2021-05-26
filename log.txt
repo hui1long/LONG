@@ -423,3 +423,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0631. ✨ feat: create admin dashboard
 0834. ✅ test: increase coverage on auth module
+0067. 🔧 refactor: remove redundant code blocks
