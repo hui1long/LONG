@@ -424,3 +424,4 @@
 0631. ✨ feat: create admin dashboard
 0834. ✅ test: increase coverage on auth module
 0067. 🔧 refactor: remove redundant code blocks
+0483. 📚 docs: update README with setup steps
