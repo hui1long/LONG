@@ -425,3 +425,4 @@
 0834. ✅ test: increase coverage on auth module
 0067. 🔧 refactor: remove redundant code blocks
 0483. 📚 docs: update README with setup steps
+0772. 🐛 fix: fix null pointer exception on login
