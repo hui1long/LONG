@@ -427,3 +427,4 @@
 0483. 📚 docs: update README with setup steps
 0772. 🐛 fix: fix null pointer exception on login
 0075. ✅ test: mock database connection in test suite
+0567. 📚 docs: add API usage examples
