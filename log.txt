@@ -429,3 +429,4 @@
 0075. ✅ test: mock database connection in test suite
 0567. 📚 docs: add API usage examples
 0823. ✨ feat: add user authentication
+0629. 🔧 refactor: organize models into subfolders
