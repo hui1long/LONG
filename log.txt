@@ -431,3 +431,4 @@
 0823. ✨ feat: add user authentication
 0629. 🔧 refactor: organize models into subfolders
 0719. 🎨 style: apply consistent indentation
+0370. 🚀 perf: reduce image load time
