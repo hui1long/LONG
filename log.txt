@@ -433,3 +433,4 @@
 0719. 🎨 style: apply consistent indentation
 0370. 🚀 perf: reduce image load time
 0497. 🔧 refactor: refactor quiz grading logic
+0626. 🎨 style: standardize quote style
