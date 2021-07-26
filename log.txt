@@ -442,3 +442,4 @@
 0709. ♻️ chore: bump dependencies
 0287. 📚 docs: write FAQ section
 0438. ♻️ chore: bump dependencies
+0213. ✅ test: add integration test for /submit endpoint
