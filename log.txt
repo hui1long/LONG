@@ -450,3 +450,4 @@
 0657. 🎨 style: standardize quote style
 0275. 🎨 style: standardize quote style
 0092. 🚀 perf: reduce image load time
+0048. 📚 docs: update README with setup steps
