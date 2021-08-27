@@ -453,3 +453,4 @@
 0048. 📚 docs: update README with setup steps
 0689. 🎨 style: reformat files with black
 0265. 🎨 style: reformat files with black
+0995. ✅ test: mock database connection in test suite
