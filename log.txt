@@ -454,3 +454,4 @@
 0689. 🎨 style: reformat files with black
 0265. 🎨 style: reformat files with black
 0995. ✅ test: mock database connection in test suite
+0604. 📚 docs: add API usage examples
