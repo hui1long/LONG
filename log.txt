@@ -461,3 +461,4 @@
 0563. 📚 docs: clarify environment setup
 0551. 📚 docs: write FAQ section
 0353. ♻️ chore: rename env.example
+0830. 🎨 style: apply consistent indentation
