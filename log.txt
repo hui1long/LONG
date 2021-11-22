@@ -473,3 +473,4 @@
 0108. 🎨 style: remove trailing whitespace
 0685. ✅ test: test user registration edge cases
 0300. ✨ feat: add export to CSV option
+0415. 🐛 fix: handle 500 error in quiz API
