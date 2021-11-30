@@ -477,3 +477,4 @@
 0090. ✅ test: increase coverage on auth module
 0959. 🐛 fix: fix null pointer exception on login
 0489. 🔧 refactor: organize models into subfolders
+0398. 🚀 perf: cache repeated calculations
