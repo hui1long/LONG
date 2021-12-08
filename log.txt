@@ -480,3 +480,4 @@
 0398. 🚀 perf: cache repeated calculations
 0651. ✨ feat: enable dark mode toggle
 0451. ✨ feat: support email verification
+0687. 🎨 style: remove trailing whitespace
