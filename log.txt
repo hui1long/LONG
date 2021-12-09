@@ -482,3 +482,4 @@
 0451. ✨ feat: support email verification
 0687. 🎨 style: remove trailing whitespace
 0858. ♻️ chore: clean up unused files
+0188. 🎨 style: apply consistent indentation
