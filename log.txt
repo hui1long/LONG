@@ -487,3 +487,4 @@
 0487. 🎨 style: reformat files with black
 0291. 📚 docs: write FAQ section
 0290. ✅ test: test user registration edge cases
+0765. ♻️ chore: clean up unused files
