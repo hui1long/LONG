@@ -489,3 +489,4 @@
 0290. ✅ test: test user registration edge cases
 0765. ♻️ chore: clean up unused files
 0529. 📚 docs: write FAQ section
+0552. 🐛 fix: fix null pointer exception on login
