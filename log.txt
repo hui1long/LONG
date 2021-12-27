@@ -492,3 +492,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0504. 📚 docs: document token refresh logic
 0131. 📚 docs: write FAQ section
+0611. ✅ test: test user registration edge cases
