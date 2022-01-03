@@ -496,3 +496,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0082. 🔧 refactor: refactor quiz grading logic
 0708. ✅ test: add integration test for /submit endpoint
+0965. 🎨 style: reformat files with black
