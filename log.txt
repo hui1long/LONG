@@ -499,3 +499,4 @@
 0965. 🎨 style: reformat files with black
 0934. ✨ feat: support email verification
 0704. 🚀 perf: cache repeated calculations
+0809. ♻️ chore: rename env.example
