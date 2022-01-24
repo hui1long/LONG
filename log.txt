@@ -504,3 +504,4 @@
 0535. 📚 docs: write FAQ section
 0021. ✨ feat: support email verification
 0034. 📚 docs: improve code comments in utils
+0730. ✅ test: test user registration edge cases
