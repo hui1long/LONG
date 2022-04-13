@@ -534,3 +534,4 @@
 0106. 🎨 style: reformat files with black
 0904. ✨ feat: implement quiz timer feature
 0670. ✨ feat: add export to CSV option
+0096. 🐛 fix: prevent crash on empty input
