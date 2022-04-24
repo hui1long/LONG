@@ -537,3 +537,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0643. 🎨 style: apply consistent indentation
 0682. ♻️ chore: rename env.example
+0844. 📚 docs: update README with setup steps
