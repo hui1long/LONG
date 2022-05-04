@@ -539,3 +539,4 @@
 0682. ♻️ chore: rename env.example
 0844. 📚 docs: update README with setup steps
 0247. 🎨 style: apply consistent indentation
+0851. ✅ test: mock database connection in test suite
