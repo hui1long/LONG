@@ -543,3 +543,4 @@
 0160. ♻️ chore: bump dependencies
 0099. 🚀 perf: reduce image load time
 0593. 🐛 fix: correct typo in registration form
+0880. 🐛 fix: fix broken CSS in mobile view
