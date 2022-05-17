@@ -545,3 +545,4 @@
 0593. 🐛 fix: correct typo in registration form
 0880. 🐛 fix: fix broken CSS in mobile view
 0727. ♻️ chore: add GitHub actions badge
+0970. ♻️ chore: update .gitignore
