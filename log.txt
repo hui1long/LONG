@@ -546,3 +546,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0727. ♻️ chore: add GitHub actions badge
 0970. ♻️ chore: update .gitignore
+0052. 🎨 style: standardize quote style
