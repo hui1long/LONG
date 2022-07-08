@@ -564,3 +564,4 @@
 0524. ♻️ chore: rename env.example
 0817. 🔧 refactor: remove redundant code blocks
 0350. 🚀 perf: cache repeated calculations
+0788. 📚 docs: add API usage examples
