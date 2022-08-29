@@ -574,3 +574,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0968. 🎨 style: standardize quote style
 0386. 🚀 perf: optimize database query for quiz results
+0200. 🐛 fix: handle 500 error in quiz API
