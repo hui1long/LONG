@@ -583,3 +583,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0253. 📚 docs: update README with setup steps
 0333. 🚀 perf: cache repeated calculations
+0789. ✨ feat: create admin dashboard
