@@ -585,3 +585,4 @@
 0333. 🚀 perf: cache repeated calculations
 0789. ✨ feat: create admin dashboard
 0029. 🚀 perf: lazy-load components
+0763. 🔧 refactor: organize models into subfolders
