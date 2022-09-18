@@ -584,3 +584,4 @@
 0253. 📚 docs: update README with setup steps
 0333. 🚀 perf: cache repeated calculations
 0789. ✨ feat: create admin dashboard
+0029. 🚀 perf: lazy-load components
