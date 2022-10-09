@@ -592,3 +592,4 @@
 0011. ✅ test: add unit test for quiz service
 0443. 🎨 style: standardize quote style
 0269. ✅ test: test user registration edge cases
+0923. ✨ feat: support email verification
