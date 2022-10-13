@@ -594,3 +594,4 @@
 0269. ✅ test: test user registration edge cases
 0923. ✨ feat: support email verification
 0655. 🚀 perf: cache repeated calculations
+0077. ♻️ chore: rename env.example
