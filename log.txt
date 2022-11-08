@@ -602,3 +602,4 @@
 0503. ♻️ chore: rename env.example
 0922. 📚 docs: write FAQ section
 0336. ✨ feat: add export to CSV option
+0665. ♻️ chore: update .gitignore
