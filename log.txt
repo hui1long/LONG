@@ -605,3 +605,4 @@
 0665. ♻️ chore: update .gitignore
 0012. 🚀 perf: cache repeated calculations
 0748. 🚀 perf: optimize database query for quiz results
+0981. 🚀 perf: lazy-load components
