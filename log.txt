@@ -628,3 +628,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0177. 📚 docs: add API usage examples
 0609. 🐛 fix: handle 500 error in quiz API
+0762. 🚀 perf: lazy-load components
