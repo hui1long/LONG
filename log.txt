@@ -632,3 +632,4 @@
 0634. 🎨 style: reformat files with black
 0796. 🔧 refactor: refactor quiz grading logic
 0973. 🔧 refactor: organize models into subfolders
+0804. ♻️ chore: add GitHub actions badge
