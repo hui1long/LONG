@@ -634,3 +634,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0804. ♻️ chore: add GitHub actions badge
 0776. ✅ test: add integration test for /submit endpoint
+0066. 🔧 refactor: clean up auth middleware
