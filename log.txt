@@ -635,3 +635,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0776. ✅ test: add integration test for /submit endpoint
 0066. 🔧 refactor: clean up auth middleware
+0775. 🐛 fix: fix null pointer exception on login
