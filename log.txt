@@ -637,3 +637,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0775. 🐛 fix: fix null pointer exception on login
 0151. ✅ test: add unit test for quiz service
+0978. 🐛 fix: prevent crash on empty input
