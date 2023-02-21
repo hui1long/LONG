@@ -640,3 +640,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0642. 🚀 perf: optimize database query for quiz results
 0694. 🎨 style: rename variables for clarity
+0628. ♻️ chore: add GitHub actions badge
