@@ -651,3 +651,4 @@
 0070. ✨ feat: implement quiz timer feature
 0542. 🔧 refactor: organize models into subfolders
 0929. ✨ feat: support email verification
+0491. 🚀 perf: lazy-load components
