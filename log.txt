@@ -655,3 +655,4 @@
 0622. 🎨 style: apply consistent indentation
 0157. ✅ test: mock database connection in test suite
 0332. 🎨 style: standardize quote style
+0584. 🚀 perf: lazy-load components
