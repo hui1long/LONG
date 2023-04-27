@@ -658,3 +658,4 @@
 0584. 🚀 perf: lazy-load components
 0492. 🎨 style: remove trailing whitespace
 0556. ✨ feat: support email verification
+0690. 🚀 perf: lazy-load components
