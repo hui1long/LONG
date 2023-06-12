@@ -683,3 +683,4 @@
 0638. 📚 docs: improve code comments in utils
 0865. ♻️ chore: add GitHub actions badge
 0688. 🚀 perf: reduce image load time
+0194. 🎨 style: standardize quote style
