@@ -685,3 +685,4 @@
 0688. 🚀 perf: reduce image load time
 0194. 🎨 style: standardize quote style
 0734. ✨ feat: add export to CSV option
+0105. 🐛 fix: correct typo in registration form
