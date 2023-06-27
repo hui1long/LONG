@@ -687,3 +687,4 @@
 0734. ✨ feat: add export to CSV option
 0105. 🐛 fix: correct typo in registration form
 0589. 🐛 fix: fix broken CSS in mobile view
+0239. 🎨 style: standardize quote style
