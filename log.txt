@@ -700,3 +700,4 @@
 0184. 📚 docs: improve code comments in utils
 0153. ♻️ chore: rename env.example
 0004. 🚀 perf: optimize database query for quiz results
+0317. ✅ test: test user registration edge cases
