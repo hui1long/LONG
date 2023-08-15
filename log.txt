@@ -710,3 +710,4 @@
 0664. ✅ test: add unit test for quiz service
 0053. ✅ test: increase coverage on auth module
 0947. 📚 docs: write FAQ section
+0473. 📚 docs: write FAQ section
