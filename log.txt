@@ -712,3 +712,4 @@
 0947. 📚 docs: write FAQ section
 0473. 📚 docs: write FAQ section
 0122. ✨ feat: support email verification
+0427. ✅ test: mock database connection in test suite
