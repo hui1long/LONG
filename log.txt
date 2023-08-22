@@ -713,3 +713,4 @@
 0473. 📚 docs: write FAQ section
 0122. ✨ feat: support email verification
 0427. ✅ test: mock database connection in test suite
+0139. 📚 docs: document token refresh logic
