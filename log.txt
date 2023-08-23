@@ -714,3 +714,4 @@
 0122. ✨ feat: support email verification
 0427. ✅ test: mock database connection in test suite
 0139. 📚 docs: document token refresh logic
+0731. 🎨 style: standardize quote style
