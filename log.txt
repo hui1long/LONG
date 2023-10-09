@@ -735,3 +735,4 @@
 0879. 🎨 style: standardize quote style
 0878. 🔧 refactor: split large controller into smaller functions
 0582. ✨ feat: add export to CSV option
+0511. 🐛 fix: fix broken CSS in mobile view
