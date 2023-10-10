@@ -737,3 +737,4 @@
 0582. ✨ feat: add export to CSV option
 0511. 🐛 fix: fix broken CSS in mobile view
 0006. 🐛 fix: prevent crash on empty input
+0927. ♻️ chore: bump dependencies
