@@ -738,3 +738,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0006. 🐛 fix: prevent crash on empty input
 0927. ♻️ chore: bump dependencies
+0555. ✨ feat: create admin dashboard
