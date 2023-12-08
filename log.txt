@@ -747,3 +747,4 @@
 0795. 📚 docs: update README with setup steps
 0901. ✨ feat: add user authentication
 0149. ✨ feat: add export to CSV option
+0617. ✨ feat: support email verification
