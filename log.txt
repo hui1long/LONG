@@ -752,3 +752,4 @@
 0244. ✨ feat: add export to CSV option
 0607. 🐛 fix: prevent crash on empty input
 0199. ✨ feat: create admin dashboard
+0115. 🚀 perf: reduce image load time
