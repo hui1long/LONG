@@ -756,3 +756,4 @@
 0868. ✅ test: add unit test for quiz service
 0499. 🎨 style: reformat files with black
 0627. 📚 docs: document token refresh logic
+0430. 🐛 fix: fix null pointer exception on login
