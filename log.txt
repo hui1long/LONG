@@ -760,3 +760,4 @@
 0941. 🚀 perf: cache repeated calculations
 0610. 🚀 perf: lazy-load components
 0990. ♻️ chore: rename env.example
+0749. ✨ feat: support email verification
