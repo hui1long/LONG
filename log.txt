@@ -767,3 +767,4 @@
 0298. ♻️ chore: update .gitignore
 0896. 🚀 perf: reduce image load time
 0468. 📚 docs: update README with setup steps
+0464. 🎨 style: remove trailing whitespace
