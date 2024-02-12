@@ -771,3 +771,4 @@
 0267. 📚 docs: improve code comments in utils
 0091. ✨ feat: add user authentication
 0778. 📚 docs: write FAQ section
+0659. 📚 docs: add API usage examples
