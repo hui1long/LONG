@@ -779,3 +779,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0992. ♻️ chore: clean up unused files
 0722. 📚 docs: add API usage examples
+0852. ✨ feat: enable dark mode toggle
