@@ -785,3 +785,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0988. 🐛 fix: fix broken CSS in mobile view
 0328. 🐛 fix: resolve issue with date parsing
+0477. 🐛 fix: fix broken CSS in mobile view
