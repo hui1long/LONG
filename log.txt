@@ -789,3 +789,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0908. ♻️ chore: bump dependencies
 0351. ✨ feat: add export to CSV option
+0842. 🎨 style: remove trailing whitespace
