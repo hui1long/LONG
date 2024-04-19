@@ -793,3 +793,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0449. ✅ test: add unit test for quiz service
 0402. 🎨 style: reformat files with black
+0036. 🔧 refactor: clean up auth middleware
