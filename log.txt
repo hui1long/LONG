@@ -794,3 +794,4 @@
 0449. ✅ test: add unit test for quiz service
 0402. 🎨 style: reformat files with black
 0036. 🔧 refactor: clean up auth middleware
+0758. 🚀 perf: optimize database query for quiz results
