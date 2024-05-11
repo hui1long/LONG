@@ -798,3 +798,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0958. 🐛 fix: prevent crash on empty input
 0802. 🔧 refactor: remove redundant code blocks
+0208. 🔧 refactor: clean up auth middleware
