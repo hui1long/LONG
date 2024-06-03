@@ -809,3 +809,4 @@
 0580. ♻️ chore: bump dependencies
 0654. ✨ feat: create admin dashboard
 0335. ♻️ chore: update .gitignore
+0672. 🐛 fix: fix broken CSS in mobile view
