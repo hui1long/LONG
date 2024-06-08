@@ -811,3 +811,4 @@
 0335. ♻️ chore: update .gitignore
 0672. 🐛 fix: fix broken CSS in mobile view
 0766. 🎨 style: reformat files with black
+0869. ♻️ chore: bump dependencies
