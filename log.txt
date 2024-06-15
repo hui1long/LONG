@@ -812,3 +812,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0766. 🎨 style: reformat files with black
 0869. ♻️ chore: bump dependencies
+0364. 🐛 fix: resolve issue with date parsing
