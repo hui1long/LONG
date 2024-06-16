@@ -813,3 +813,4 @@
 0766. 🎨 style: reformat files with black
 0869. ♻️ chore: bump dependencies
 0364. 🐛 fix: resolve issue with date parsing
+0434. 📚 docs: document token refresh logic
