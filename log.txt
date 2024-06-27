@@ -820,3 +820,4 @@
 0342. 🚀 perf: cache repeated calculations
 0859. ✨ feat: create admin dashboard
 0321. 🔧 refactor: organize models into subfolders
+0900. 🐛 fix: handle 500 error in quiz API
