@@ -824,3 +824,4 @@
 0326. 🚀 perf: cache repeated calculations
 0482. ✨ feat: add export to CSV option
 0680. ♻️ chore: add GitHub actions badge
+0319. 🐛 fix: handle 500 error in quiz API
