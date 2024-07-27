@@ -828,3 +828,4 @@
 0554. 📚 docs: improve code comments in utils
 0579. 📚 docs: clarify environment setup
 0798. 🚀 perf: reduce image load time
+0756. ✨ feat: support email verification
