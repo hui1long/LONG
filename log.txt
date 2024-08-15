@@ -830,3 +830,4 @@
 0798. 🚀 perf: reduce image load time
 0756. ✨ feat: support email verification
 0846. ✨ feat: implement quiz timer feature
+0597. 🚀 perf: cache repeated calculations
