@@ -848,3 +848,4 @@
 0390. 🎨 style: standardize quote style
 0407. 🚀 perf: cache repeated calculations
 0514. 🐛 fix: fix broken CSS in mobile view
+0686. 🎨 style: standardize quote style
