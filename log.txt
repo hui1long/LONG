@@ -850,3 +850,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0686. 🎨 style: standardize quote style
 0325. 🎨 style: rename variables for clarity
+0801. ✨ feat: enable dark mode toggle
