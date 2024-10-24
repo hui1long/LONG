@@ -855,3 +855,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0716. ✨ feat: implement quiz timer feature
 0235. 🐛 fix: fix null pointer exception on login
+0612. ✅ test: test user registration edge cases
