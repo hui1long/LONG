@@ -861,3 +861,4 @@
 0175. 📚 docs: add API usage examples
 0526. ✨ feat: add user authentication
 0454. ♻️ chore: bump dependencies
+0107. 🐛 fix: prevent crash on empty input
