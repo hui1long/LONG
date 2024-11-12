@@ -862,3 +862,4 @@
 0526. ✨ feat: add user authentication
 0454. ♻️ chore: bump dependencies
 0107. 🐛 fix: prevent crash on empty input
+0989. 📚 docs: write FAQ section
