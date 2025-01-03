@@ -879,3 +879,4 @@
 0204. 🎨 style: standardize quote style
 0421. 🔧 refactor: split large controller into smaller functions
 0518. ✨ feat: support email verification
+0248. 🐛 fix: handle 500 error in quiz API
