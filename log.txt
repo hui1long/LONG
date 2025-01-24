@@ -887,3 +887,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0921. 🐛 fix: correct typo in registration form
 0121. ✨ feat: support email verification
+0439. 🐛 fix: correct typo in registration form
