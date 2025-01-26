@@ -888,3 +888,4 @@
 0921. 🐛 fix: correct typo in registration form
 0121. ✨ feat: support email verification
 0439. 🐛 fix: correct typo in registration form
+0507. 🔧 refactor: clean up auth middleware
