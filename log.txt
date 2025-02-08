@@ -889,3 +889,4 @@
 0121. ✨ feat: support email verification
 0439. 🐛 fix: correct typo in registration form
 0507. 🔧 refactor: clean up auth middleware
+0678. ✨ feat: add user authentication
