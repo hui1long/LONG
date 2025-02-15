@@ -892,3 +892,4 @@
 0678. ✨ feat: add user authentication
 0180. ✨ feat: add export to CSV option
 0910. 🎨 style: remove trailing whitespace
+0755. 🚀 perf: cache repeated calculations
