@@ -894,3 +894,4 @@
 0910. 🎨 style: remove trailing whitespace
 0755. 🚀 perf: cache repeated calculations
 0141. 📚 docs: document token refresh logic
+0440. 📚 docs: update README with setup steps
