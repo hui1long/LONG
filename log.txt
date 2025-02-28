@@ -896,3 +896,4 @@
 0141. 📚 docs: document token refresh logic
 0440. 📚 docs: update README with setup steps
 0087. ✨ feat: add export to CSV option
+0596. ♻️ chore: update .gitignore
