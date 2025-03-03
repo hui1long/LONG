@@ -899,3 +899,4 @@
 0596. ♻️ chore: update .gitignore
 0447. ♻️ chore: bump dependencies
 0997. ✅ test: increase coverage on auth module
+0448. 🐛 fix: correct typo in registration form
