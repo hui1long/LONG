@@ -901,3 +901,4 @@
 0997. ✅ test: increase coverage on auth module
 0448. 🐛 fix: correct typo in registration form
 0713. 🐛 fix: handle 500 error in quiz API
+0715. ✨ feat: create admin dashboard
