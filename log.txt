@@ -906,3 +906,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0024. 📚 docs: write FAQ section
 0940. 📚 docs: document token refresh logic
+0383. 🐛 fix: fix broken CSS in mobile view
