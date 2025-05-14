@@ -924,3 +924,4 @@
 0501. ✨ feat: add export to CSV option
 0902. ✨ feat: enable dark mode toggle
 0304. 🔧 refactor: remove redundant code blocks
+0472. 🐛 fix: fix null pointer exception on login
