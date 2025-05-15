@@ -925,3 +925,4 @@
 0902. ✨ feat: enable dark mode toggle
 0304. 🔧 refactor: remove redundant code blocks
 0472. 🐛 fix: fix null pointer exception on login
+0673. 🐛 fix: correct typo in registration form
