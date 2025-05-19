@@ -927,3 +927,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0673. 🐛 fix: correct typo in registration form
 0079. 🐛 fix: correct typo in registration form
+0532. 🔧 refactor: split large controller into smaller functions
