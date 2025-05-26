@@ -930,3 +930,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0486. ✨ feat: add export to CSV option
 1000. ✅ test: increase coverage on auth module
+0001. 🚀 perf: cache repeated calculations
