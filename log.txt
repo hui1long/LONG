@@ -931,3 +931,4 @@
 0486. ✨ feat: add export to CSV option
 1000. ✅ test: increase coverage on auth module
 0001. 🚀 perf: cache repeated calculations
+0616. 🚀 perf: lazy-load components
