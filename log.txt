@@ -938,3 +938,4 @@
 0706. ✨ feat: support email verification
 0811. 🎨 style: reformat files with black
 0821. ✅ test: add integration test for /submit endpoint
+0557. 🔧 refactor: clean up auth middleware
