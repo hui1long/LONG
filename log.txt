@@ -943,3 +943,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0086. 🐛 fix: correct typo in registration form
 0062. ♻️ chore: update .gitignore
+0866. 📚 docs: add API usage examples
