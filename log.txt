@@ -951,3 +951,4 @@
 0861. ♻️ chore: clean up unused files
 0574. ✨ feat: enable dark mode toggle
 0224. 🐛 fix: fix broken CSS in mobile view
+0826. 📚 docs: clarify environment setup
