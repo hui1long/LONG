@@ -958,3 +958,4 @@
 0993. ✨ feat: implement quiz timer feature
 0142. ✨ feat: implement quiz timer feature
 0739. 🎨 style: remove trailing whitespace
+0500. ✅ test: add integration test for /submit endpoint
