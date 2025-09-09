@@ -970,3 +970,4 @@
 0777. 📚 docs: document token refresh logic
 0695. ✨ feat: create admin dashboard
 0479. 🐛 fix: fix null pointer exception on login
+0506. 🐛 fix: handle 500 error in quiz API
