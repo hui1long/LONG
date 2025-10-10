@@ -980,3 +980,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0365. 🚀 perf: reduce image load time
 0860. 🔧 refactor: organize models into subfolders
+0538. 🐛 fix: fix broken CSS in mobile view
