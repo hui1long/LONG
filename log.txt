@@ -987,3 +987,4 @@
 0885. ♻️ chore: update .gitignore
 0005. ✅ test: add unit test for quiz service
 0470. 🎨 style: remove trailing whitespace
+0379. ✨ feat: support email verification
