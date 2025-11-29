@@ -996,3 +996,4 @@
 0178. ✨ feat: support email verification
 0572. ✨ feat: add user authentication
 0278. 🔧 refactor: clean up auth middleware
+0841. 🚀 perf: optimize database query for quiz results
