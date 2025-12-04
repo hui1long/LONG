@@ -54,7 +54,7 @@
   "deprecated": false,
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the bitcoin network and build your own services with it.",
   "devDependencies": {
-    "bower": "~1.2.8",
+    "bower": "~1.8.8",
     "grunt": "~0.4.2",
     "grunt-angular-gettext": "^0.2.15",
     "grunt-cli": "~0.1.11",
